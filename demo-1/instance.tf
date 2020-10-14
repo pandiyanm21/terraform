@@ -6,5 +6,3 @@ resource "aws_instance" "web-server" {
     Name = "mycloudlms"
   }
 }
-
-hi
